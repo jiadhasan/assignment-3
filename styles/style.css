@@ -4,4 +4,8 @@
     height:725px;
     width: auto;
 }
+.footer-bg{
+    background-color: black;
+    height: 400px;
+}
 /*RESPONSIVE AT (MOBILE-L)*/
