@@ -1,0 +1,7 @@
+/*background image*/
+.bg-img{
+    background-image: url(../assets/bg.jpg);
+    height:725px;
+    width: auto;
+}
+/*RESPONSIVE AT (MOBILE-L)*/
